@@ -3,3 +3,5 @@ This repository contains code for the lesion_gnb tool described in this paper: d
 It is also available for download from the SPM website, but I figured I should add it here for completeness as well. 
 
 I do not actively maintain this repository.
+
+Developed and implemented by Joseph C. Griffis, 2015, University of Alabama at Birmingham
